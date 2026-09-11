@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sainidev1211/pro.-D/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3870-count-commas-in-range](https://github.com/sainidev1211/pro.-D/tree/master/3870-count-commas-in-range) |
 ## Array
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sainidev1211/pro.-D/tree/master/0128-longest-consecutive-sequence) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sainidev1211/pro.-D/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sainidev1211/pro.-D/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -29,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/sainidev1211/pro.-D/tree/master/3483-unique-3-digit-even-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sainidev1211/pro.-D/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sainidev1211/pro.-D/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sainidev1211/pro.-D/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
