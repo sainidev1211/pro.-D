@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sainidev1211/pro.-D/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0836-rectangle-overlap](https://github.com/sainidev1211/pro.-D/tree/master/0836-rectangle-overlap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sainidev1211/pro.-D/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sainidev1211/pro.-D/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sainidev1211/pro.-D/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sainidev1211/pro.-D/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/sainidev1211/pro.-D/tree/master/0682-baseball-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sainidev1211/pro.-D/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sainidev1211/pro.-D/tree/master/3483-unique-3-digit-even-numbers) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sainidev1211/pro.-D/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sainidev1211/pro.-D/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sainidev1211/pro.-D/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/sainidev1211/pro.-D/tree/master/0682-baseball-game) |
