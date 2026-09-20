@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sainidev1211/pro.-D/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0347-top-k-frequent-elements](https://github.com/sainidev1211/pro.-D/tree/master/0347-top-k-frequent-elements) |
 | [0682-baseball-game](https://github.com/sainidev1211/pro.-D/tree/master/0682-baseball-game) |
+| [1929-concatenation-of-array](https://github.com/sainidev1211/pro.-D/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sainidev1211/pro.-D/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sainidev1211/pro.-D/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/sainidev1211/pro.-D/tree/master/0682-baseball-game) |
+| [1929-concatenation-of-array](https://github.com/sainidev1211/pro.-D/tree/master/1929-concatenation-of-array) |
 ## Design
 |  |
 | ------- |
