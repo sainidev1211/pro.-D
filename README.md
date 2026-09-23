@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sainidev1211/pro.-D/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/sainidev1211/pro.-D/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sainidev1211/pro.-D/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sainidev1211/pro.-D/tree/master/0169-majority-element) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sainidev1211/pro.-D/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/sainidev1211/pro.-D/tree/master/0049-group-anagrams) |
 | [0394-decode-string](https://github.com/sainidev1211/pro.-D/tree/master/0394-decode-string) |
 ## Divide and Conquer
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sainidev1211/pro.-D/tree/master/0078-subsets) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sainidev1211/pro.-D/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
