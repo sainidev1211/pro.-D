@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sainidev1211/pro.-D/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sainidev1211/pro.-D/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sainidev1211/pro.-D/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/sainidev1211/pro.-D/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/sainidev1211/pro.-D/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/sainidev1211/pro.-D/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sainidev1211/pro.-D/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -108,10 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sainidev1211/pro.-D/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sainidev1211/pro.-D/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sainidev1211/pro.-D/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/sainidev1211/pro.-D/tree/master/0506-relative-ranks) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sainidev1211/pro.-D/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/sainidev1211/pro.-D/tree/master/0506-relative-ranks) |
 ## Bucket Sort
 |  |
 | ------- |
