@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/sainidev1211/pro.-D/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/sainidev1211/pro.-D/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sainidev1211/pro.-D/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sainidev1211/pro.-D/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sainidev1211/pro.-D/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sainidev1211/pro.-D/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/sainidev1211/pro.-D/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/sainidev1211/pro.-D/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/sainidev1211/pro.-D/tree/master/0682-baseball-game) |
 ## Simulation
@@ -150,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sainidev1211/pro.-D/tree/master/0035-search-insert-position) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/sainidev1211/pro.-D/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/sainidev1211/pro.-D/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
