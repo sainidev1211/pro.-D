@@ -1,11 +1,13 @@
 class Solution(object):
     def subsets(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[List[int]]
-        """
-        
         res = [[]]
+
         for num in nums:
-            res += [curr + [num] for curr in res]
+            new_subsets = []
+
+            for curr in res:
+                new_subsets.append(curr + [num])
+
+            res.extend(new_subsets)
+
         return res
