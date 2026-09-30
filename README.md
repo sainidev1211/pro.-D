@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sainidev1211/pro.-D/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/sainidev1211/pro.-D/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sainidev1211/pro.-D/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/sainidev1211/pro.-D/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/sainidev1211/pro.-D/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sainidev1211/pro.-D/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sainidev1211/pro.-D/tree/master/0229-majority-element-ii) |
@@ -155,9 +156,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/sainidev1211/pro.-D/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/sainidev1211/pro.-D/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/sainidev1211/pro.-D/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/sainidev1211/pro.-D/tree/master/0234-palindrome-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sainidev1211/pro.-D/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
