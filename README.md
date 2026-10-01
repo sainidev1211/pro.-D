@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sainidev1211/pro.-D/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/sainidev1211/pro.-D/tree/master/0049-group-anagrams) |
 | [0394-decode-string](https://github.com/sainidev1211/pro.-D/tree/master/0394-decode-string) |
+| [0680-valid-palindrome-ii](https://github.com/sainidev1211/pro.-D/tree/master/0680-valid-palindrome-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -163,8 +164,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sainidev1211/pro.-D/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/sainidev1211/pro.-D/tree/master/0234-palindrome-linked-list) |
+| [0680-valid-palindrome-ii](https://github.com/sainidev1211/pro.-D/tree/master/0680-valid-palindrome-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sainidev1211/pro.-D/tree/master/0141-linked-list-cycle) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/sainidev1211/pro.-D/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
