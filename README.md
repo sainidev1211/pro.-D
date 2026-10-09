@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/sainidev1211/pro.-D/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/sainidev1211/pro.-D/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/sainidev1211/pro.-D/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/sainidev1211/pro.-D/tree/master/0078-subsets) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/sainidev1211/pro.-D/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/sainidev1211/pro.-D/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/sainidev1211/pro.-D/tree/master/0234-palindrome-linked-list) |
 | [0680-valid-palindrome-ii](https://github.com/sainidev1211/pro.-D/tree/master/0680-valid-palindrome-ii) |
