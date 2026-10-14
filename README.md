@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sainidev1211/pro.-D/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sainidev1211/pro.-D/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/sainidev1211/pro.-D/tree/master/0506-relative-ranks) |
+| [0560-subarray-sum-equals-k](https://github.com/sainidev1211/pro.-D/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/sainidev1211/pro.-D/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/sainidev1211/pro.-D/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sainidev1211/pro.-D/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sainidev1211/pro.-D/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sainidev1211/pro.-D/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sainidev1211/pro.-D/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/sainidev1211/pro.-D/tree/master/0560-subarray-sum-equals-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sainidev1211/pro.-D/tree/master/3483-unique-3-digit-even-numbers) |
 ## Union-Find
 |  |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sainidev1211/pro.-D/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sainidev1211/pro.-D/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
