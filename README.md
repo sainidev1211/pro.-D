@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sainidev1211/pro.-D/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/sainidev1211/pro.-D/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/sainidev1211/pro.-D/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/sainidev1211/pro.-D/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/sainidev1211/pro.-D/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/sainidev1211/pro.-D/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sainidev1211/pro.-D/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -121,11 +122,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sainidev1211/pro.-D/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sainidev1211/pro.-D/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/sainidev1211/pro.-D/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/sainidev1211/pro.-D/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sainidev1211/pro.-D/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/sainidev1211/pro.-D/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/sainidev1211/pro.-D/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -157,10 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sainidev1211/pro.-D/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0658-find-k-closest-elements](https://github.com/sainidev1211/pro.-D/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sainidev1211/pro.-D/tree/master/0035-search-insert-position) |
+| [0658-find-k-closest-elements](https://github.com/sainidev1211/pro.-D/tree/master/0658-find-k-closest-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -173,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sainidev1211/pro.-D/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/sainidev1211/pro.-D/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/sainidev1211/pro.-D/tree/master/0234-palindrome-linked-list) |
+| [0658-find-k-closest-elements](https://github.com/sainidev1211/pro.-D/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/sainidev1211/pro.-D/tree/master/0680-valid-palindrome-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
