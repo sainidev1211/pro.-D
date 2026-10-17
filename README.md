@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sainidev1211/pro.-D/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/sainidev1211/pro.-D/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/sainidev1211/pro.-D/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/sainidev1211/pro.-D/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/sainidev1211/pro.-D/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sainidev1211/pro.-D/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/sainidev1211/pro.-D/tree/master/0169-majority-element) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sainidev1211/pro.-D/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/sainidev1211/pro.-D/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sainidev1211/pro.-D/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sainidev1211/pro.-D/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/sainidev1211/pro.-D/tree/master/0229-majority-element-ii) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sainidev1211/pro.-D/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/sainidev1211/pro.-D/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/sainidev1211/pro.-D/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sainidev1211/pro.-D/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/sainidev1211/pro.-D/tree/master/0234-palindrome-linked-list) |
 | [0658-find-k-closest-elements](https://github.com/sainidev1211/pro.-D/tree/master/0658-find-k-closest-elements) |
