@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sainidev1211/pro.-D/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0836-rectangle-overlap](https://github.com/sainidev1211/pro.-D/tree/master/0836-rectangle-overlap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sainidev1211/pro.-D/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3524-find-x-value-of-array-i](https://github.com/sainidev1211/pro.-D/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sainidev1211/pro.-D/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/sainidev1211/pro.-D/tree/master/3870-count-commas-in-range) |
 ## Array
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/sainidev1211/pro.-D/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sainidev1211/pro.-D/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sainidev1211/pro.-D/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/sainidev1211/pro.-D/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sainidev1211/pro.-D/tree/master/0005-longest-palindromic-substring) |
+| [3524-find-x-value-of-array-i](https://github.com/sainidev1211/pro.-D/tree/master/3524-find-x-value-of-array-i) |
 ## Manacher
 |  |
 | ------- |
