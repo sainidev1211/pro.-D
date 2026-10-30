@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sainidev1211/pro.-D/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/sainidev1211/pro.-D/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/sainidev1211/pro.-D/tree/master/0029-divide-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sainidev1211/pro.-D/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0836-rectangle-overlap](https://github.com/sainidev1211/pro.-D/tree/master/0836-rectangle-overlap) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sainidev1211/pro.-D/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/sainidev1211/pro.-D/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/sainidev1211/pro.-D/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sainidev1211/pro.-D/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/sainidev1211/pro.-D/tree/master/0141-linked-list-cycle) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sainidev1211/pro.-D/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sainidev1211/pro.-D/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/sainidev1211/pro.-D/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/sainidev1211/pro.-D/tree/master/0049-group-anagrams) |
 | [0394-decode-string](https://github.com/sainidev1211/pro.-D/tree/master/0394-decode-string) |
 | [0680-valid-palindrome-ii](https://github.com/sainidev1211/pro.-D/tree/master/0680-valid-palindrome-ii) |
