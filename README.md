@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sainidev1211/pro.-D/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sainidev1211/pro.-D/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/sainidev1211/pro.-D/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/sainidev1211/pro.-D/tree/master/3665-twisted-mirror-path-count) |
 ## Hash Table
 |  |
 | ------- |
@@ -218,8 +219,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sainidev1211/pro.-D/tree/master/0005-longest-palindromic-substring) |
 | [3524-find-x-value-of-array-i](https://github.com/sainidev1211/pro.-D/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/sainidev1211/pro.-D/tree/master/3665-twisted-mirror-path-count) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sainidev1211/pro.-D/tree/master/0005-longest-palindromic-substring) |
+## Matrix
+|  |
+| ------- |
+| [3665-twisted-mirror-path-count](https://github.com/sainidev1211/pro.-D/tree/master/3665-twisted-mirror-path-count) |
 <!---LeetCode Topics End-->
