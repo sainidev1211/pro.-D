@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/sainidev1211/pro.-D/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/sainidev1211/pro.-D/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/sainidev1211/pro.-D/tree/master/3665-twisted-mirror-path-count) |
+| [3934-smallest-unique-subarray](https://github.com/sainidev1211/pro.-D/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sainidev1211/pro.-D/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/sainidev1211/pro.-D/tree/master/0560-subarray-sum-equals-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sainidev1211/pro.-D/tree/master/3483-unique-3-digit-even-numbers) |
+| [3934-smallest-unique-subarray](https://github.com/sainidev1211/pro.-D/tree/master/3934-smallest-unique-subarray) |
 ## Union-Find
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/sainidev1211/pro.-D/tree/master/0035-search-insert-position) |
 | [0658-find-k-closest-elements](https://github.com/sainidev1211/pro.-D/tree/master/0658-find-k-closest-elements) |
+| [3934-smallest-unique-subarray](https://github.com/sainidev1211/pro.-D/tree/master/3934-smallest-unique-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -250,4 +253,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/sainidev1211/pro.-D/tree/master/1267-count-servers-that-communicate) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/sainidev1211/pro.-D/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/sainidev1211/pro.-D/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/sainidev1211/pro.-D/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
